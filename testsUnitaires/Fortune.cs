@@ -29,6 +29,9 @@ namespace testsUnitaires
                 case 4:
                     resultat = "phrase 4";
                     break;
+                case 5:
+                    resultat = "phrase 5";
+                    break;
                 default:
                     break;
             }
